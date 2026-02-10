@@ -1,6 +1,12 @@
 # Planejamento Estratégico de Tecnologia da Informação
   
-## Aula 01 
+**Aluno:** Pedro Veira Cavalciuk 
+**Disciplina:** Integração Vertical e Horizontal  
+**Professor:** Prof. Me. Deivison S. Takatu  
+**Instituição:** SENAI  
+
+---
+
 ## 1. Introdução
 A disciplina de **Planejamento Estratégico de Tecnologia da Informação (TI)** tem como objetivo apresentar a importância da TI como elemento estratégico nas organizações modernas. A aula inicial contextualiza o papel da TI no apoio à tomada de decisão, na inovação e no alinhamento com os objetivos do negócio.
 
